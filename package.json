@@ -1,0 +1,18 @@
+{
+  "name": "@confidenceman02/elm-datepicker",
+  "version": "0.0.0",
+  "description": "JS bindings for the Confidenceman02/elm-datepicker elm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {},
+  "devDependencies": {
+    "elm": "^0.19.1-5",
+    "elm-format": "^0.8.5",
+    "elm-test": "^0.19.1-revision10",
+    "elm-tooling": "^1.10.0"
+  }
+}
